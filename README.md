@@ -10,4 +10,4 @@ Moreover,**Least Means Square (LMS)** algorithm was applied to the same data and
 
 **Result** – Kalman Filter outperforms LMS.
 
-<img src="res.png" alt="Alt text" width="300" height="300" align="center">
+<img src="res.png" alt="Alt text" width="400" height="600" align="center">
